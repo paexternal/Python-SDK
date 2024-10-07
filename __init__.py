@@ -6,7 +6,6 @@ from enum import Enum
 
 from openfeature.evaluation_context import EvaluationContext
 from openfeature.event import ProviderEvent, ProviderEventDetails
-from openfeature.flag_evaluation import FlagResolutionDetails
 from openfeature.hook import Hook
 
 from .metadata import Metadata
